@@ -1,6 +1,6 @@
 import java.util.Arrays;
 import java.util.Scanner;
-
+//직각삼각형
 public class java4153 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
